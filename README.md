@@ -45,4 +45,5 @@ A机器中：用vs编译
 
 **每次点击生成，都会重新生成。所以，现在编译源码打开开关，编译游戏工程时候关闭。**
 
-
+###工具
+https://github.com/yass007/FASTBuildMonitor
